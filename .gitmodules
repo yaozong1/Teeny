@@ -1,0 +1,3 @@
+[submodule "yaozong_components"]
+	path = yaozong_components
+	url = git@gitlab.com:a9782/yaozong_components.git

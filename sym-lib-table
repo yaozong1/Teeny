@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name "TC-Connector")(type "KiCad")(uri "${KIPRJMOD}/yaozong_components/library/TC-Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "TC-Flash")(type "KiCad")(uri "${KIPRJMOD}/yaozong_components/library/TC-Flash.kicad_sym")(options "")(descr ""))
+  (lib (name "TC-ICs")(type "KiCad")(uri "${KIPRJMOD}/yaozong_components/library/TC-ICs.kicad_sym")(options "")(descr ""))
+  (lib (name "TC-OPamps")(type "KiCad")(uri "${KIPRJMOD}/yaozong_components/library/TC-OPamps.kicad_sym")(options "")(descr ""))
+  (lib (name "TC-Power")(type "KiCad")(uri "${KIPRJMOD}/yaozong_components/library/TC-Power.kicad_sym")(options "")(descr ""))
+  (lib (name "TC-RF-Module")(type "KiCad")(uri "${KIPRJMOD}/yaozong_components/library/TC-RF-Module.kicad_sym")(options "")(descr ""))
+  (lib (name "TC-Transistors")(type "KiCad")(uri "${KIPRJMOD}/yaozong_components/library/TC-Transistors.kicad_sym")(options "")(descr ""))
+  (lib (name "Yaozong_ICs")(type "KiCad")(uri "${KIPRJMOD}/yaozong_components/library/Yaozong_ICs.kicad_sym")(options "")(descr ""))
+  (lib (name "Yaozong_Connectors")(type "KiCad")(uri "${KIPRJMOD}/yaozong_components/library/Yaozong_Connectors.kicad_sym")(options "")(descr ""))
+)
