@@ -1,3 +1,6 @@
 [submodule "yaozong_components"]
 	path = yaozong_components
 	url = git@gitlab.com:a9782/yaozong_components.git
+[submodule "yz_kicad_lib"]
+	path = yz_kicad_lib
+	url = git@github.com:yaozong1/yz_kicad_lib.git
